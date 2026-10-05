@@ -10,3 +10,4 @@ jupyter
 geopandas
 shap
 python-dotenv
+scipy
